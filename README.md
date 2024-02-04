@@ -18,7 +18,7 @@ Phishing is a cybercrime strategy in which attackers assume the identity of reli
 
 The intention is to take advantage of people’s confidence by deceiving victims into unintentionally giving sensitive information, which may then be exploited for financial fraud, identity theft, or illegal account access. In order to protect themselves against phishing attempts, users should be wary of requests for personal information that are not requested and should always double-check the legitimacy of the sender.
 
-## B-Phish
+## browse-info
 
 It is an powerful tool written in python language that is used to obtain someone’s device information using link. Now let’s see system compatibility, Requirements and how install it?
 
