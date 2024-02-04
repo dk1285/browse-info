@@ -24,15 +24,15 @@ It is an powerful tool written in python language that is used to obtain someone
 
 ## Compatibility:
 
-Kali Linux
-Parrot OS
-Window 10 & 11
-Ubuntu
-Termux (Note: Ignore Showing Run As Root Permission After Run install.py Script) 
+1. Kali Linux<br>
+2. Parrot OS<br>
+3. Window 10 & 11<br>
+4. Ubuntu<br>
+5. Termux (Note: Ignore Showing Run As Root Permission After Run install.py Script) 
 
 ## Requirements:
 
-python3
+python3<br>
 ssh
 
 ## Installation
