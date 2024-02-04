@@ -1,4 +1,4 @@
-# browse-phish
+# browse-info
 Getting Target Browser information by using a URL
 
 # For More Information
@@ -28,7 +28,7 @@ Kali Linux
 Parrot OS
 Window 10 & 11
 Ubuntu
-Termux
+Termux (Note: Ignore Showing Run As Root Permission After Run install.py Script) 
 
 ## Requirements:
 
